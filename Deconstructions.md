@@ -24,5 +24,8 @@
  # Deconstruction 4: Sleep Cycle
  
  - microphone from phone
- - when detected a certain Hz of sound it will trigger something in the app and record
+ - when detected a certain Hz of sound it will trigger something in the app and record the user
  - when recoding it detecs certain Hz and determines which sleep phase the user is at and later tracks and averages the users sleep
+ - have data to help the app understand which range is considered REM, light, deep, etc
+ - certain tone will trigger and record users snoring
+ - or the entire time it is recording when using the app, but cuts useful sounds that meets the range it was told to keep track
