@@ -21,7 +21,7 @@
  - But would also need a lot of vague questions.
  - Category of similar questions: gender, height, weight, tv, movie, etc.
  
- # Deconstruction 4: Sleep Cycle
+ # Deconstruction 4: Sleep Cycle App
  
  - microphone from phone
  - when detected a certain Hz of sound it will trigger something in the app and record the user
