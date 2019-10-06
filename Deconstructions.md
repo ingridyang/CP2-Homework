@@ -20,3 +20,9 @@
  - Would need a lot of different detailed questions that could help lead to the answer.
  - But would also need a lot of vague questions.
  - Category of similar questions: gender, height, weight, tv, movie, etc.
+ 
+ # Deconstruction 4: Sleep Cycle
+ 
+ - microphone from phone
+ - when detected a certain Hz of sound it will trigger something in the app and record
+ - when recoding it detecs certain Hz and determines which sleep phase the user is at and later tracks and averages the users sleep
