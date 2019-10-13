@@ -29,3 +29,11 @@
  - have data to help the app understand which range is considered REM, light, deep, etc
  - certain tone will trigger and record users snoring
  - or the entire time it is recording when using the app, but cuts useful sounds that meets the range it was told to keep track
+ 
+ # Deconstruction 5: Until Dawn Video Game
+ 
+ - played on Playstation
+ - game is based on user's decisions
+ - players have moments where they have to pick and choose between two options for the characters to do and with the answer it will change the routes for the players
+ - have multiple series of storylines for players
+
