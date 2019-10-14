@@ -1,1 +1,1 @@
-Link to IP Address: http://localhost:3002/
+Link to IP Address: http://34.83.36.30:3000/
