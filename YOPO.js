@@ -8,6 +8,8 @@ ml5 Example
 PoseNet example using p5.js
 === */
 
+//Contribution: Zeke Bogusky, Kaito Miyake, and Ingrid Yang
+
 let video;
 let poseNet;
 let poses = [];
